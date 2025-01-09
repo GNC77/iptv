@@ -123,9 +123,9 @@ http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV (720p)
 http://stream.tvcdn.net/spor/sports-tv.m3u8
 #EXTINF:-1 tvg-id="Bein Haber.tr" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="Spor",Bein Haber (1080p)
-http://65.21.85.175:8000/play/a033/index.m3u8?token=livetv
+http://195.142.1.211:4022/udp/224.2.2.49:10001
 #EXTINF:-1 tvg-id="Bein Haber.tr" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="Spor",Bein Haber (360 1080p)
-https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
+http://5.troya.info:34000/ch1351/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0ME1qpQoy_elSOhen6vJebGeCjGuhLvOgLJt2UwcMfmq4
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6f73f66b-d2d3-451d-9f56-5d1b27172abc.png" group-title="Spor",Ziraat Türkiye Kupası TV (360p 1080p)
 http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/639df808-f325-4b05-8cdb-9ed151338087.png" group-title="Spor",Fit Yaşa TV (360p 1080p)
