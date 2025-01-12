@@ -1,6 +1,6 @@
 #EXTM3U #TÜRKİYE 🇹🇷
 
-# * » ULUSAL « * #
+# 🌟✔ ULUSAL ✔🌟 #
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1 (360 1080p)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1 (480p)
@@ -37,7 +37,7 @@ http://stream.tvcdn.net/ulusal/tv8.m3u8
 https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1
 
 
-# * » EĞLENCE FİLM « * #
+# 🌟✔ EĞLENCE FİLM ✔🌟 #
 #EXTINF:-1 tvg-id="TV4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" group-title="Eğlence Film",TV 4 (720p)
 http://stream.tvcdn.net/eglence/tv-4.m3u8
 #EXTINF:-1 tvg-id="360TV.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Eğlence Film",360 TV (720p)
@@ -68,13 +68,11 @@ http://stream.tvcdn.net/diger-eglence/deniz-postasi-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/cine-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/735db609-c6b4-46aa-8347-3e4a4b0e4ee4.png" group-title="Eğlence Film",Cine5 TV (720p)
 http://stream.tvcdn.net/diger-eglence/cine5-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FARRUK TV" tvg-logo="" group-title="Eğlence Film",FARRUK TV (720p)
-https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="Eğlence Film",TRT 2 (720p)
 http://stream.tvcdn.net/eglence/trt-2.m3u8
 
 
-# * » ÇOCUK ÇİZGİ FİLM « * #
+# 🌟✔ ÇOCUK ÇİZGİ FİLM ✔🌟 #
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk & Eğitim",TRT Çocuk (360p 720p)
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk & Eğitim",TRT Çocuk (720p)
@@ -95,7 +93,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_72
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 
 
-# * » SPOR « * #
+# 🌟✔ SPOR ✔🌟 #
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor (360p 1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor (720p)
@@ -125,14 +123,14 @@ http://stream.tvcdn.net/spor/sports-tv.m3u8
 #EXTINF:-1 tvg-id="Bein Haber.tr" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="Spor",Bein Haber (1080p)
 http://195.142.1.211:4022/udp/224.2.2.49:10001
 #EXTINF:-1 tvg-id="Bein Haber.tr" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="Spor",Bein Haber (360 1080p)
-http://5.troya.info:34000/ch1351/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0ME1qpQoy_elSOhen6vJebGeCjGuhLvOgLJt2UwcMfmq4
+http://65.21.85.175:8000/play/a033/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6f73f66b-d2d3-451d-9f56-5d1b27172abc.png" group-title="Spor",Ziraat Türkiye Kupası TV (360p 1080p)
 http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/639df808-f325-4b05-8cdb-9ed151338087.png" group-title="Spor",Fit Yaşa TV (360p 1080p)
 http://stream.tvcdn.net/spor/fit-yasa-tv.m3u8
 
 
-# * » BELGESEL KÜLTÜR SANAT « * #
+# 🌟✔ BELGESEL KÜLTÜR SANAT ✔🌟 #
 #EXTINF:-1 tvg-id="" tvg-logo="https://duckduckgo.com/i/5c4aa5e1.jpg" group-title="Belgesel Kültür Sanat",BOB ROSS -TCL (480p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/tclAAAAAA-cinedigm-bobross-tcl/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2a7833de-376e-4900-a8eb-523162f00502.png" group-title="Belgesel Kültür Sanat",SuperTurk Max (720p)
@@ -153,7 +151,7 @@ http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
 http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8
 
 
-# * » HABER « * #
+# 🌟✔ HABER ✔🌟 #
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV (360p 720p)
 http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV (720p)
@@ -200,20 +198,20 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 http://stream.tvcdn.net/haber/tbmm-tv.m3u8
 
 
-# * » EKONOMİ « * #
+# 🌟✔ EKONOMİ ✔🌟 #
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Ekonomi",Bloomberg HT (360p 720p)
 http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 #EXTINF:-1 tvg-id="APara.tr" tvg-logo="http://assets.tvcdn.net/5aca3b8c-0c1b-41f7-96c0-b70f8a3f24fc.png" group-title="Ekonomi",A Para (360p 1080p)
-https://youtu.be/j6iccJmsWYU
+http://185.234.111.229:8000/play/a01l
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="Ekonomi",Ekotürk (360p 720p)
 http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4e98253f-f791-42da-8497-51e821dde886.png" group-title="Ekonomi",Finans Türk
 http://stream.tvcdn.net/ekonomi/finans-turk.m3u8
-#EXTINF:-1 tvg-id="CNBCe.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png" group-title="Ekonomi",CNBC-e
-https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
+#EXTINF:-1 tvg-id="CNBCe.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png" group-title="Ekonomi",CNBC-e (1080p)
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 
 
-# * » BELGESEL KÜLTÜR SANAT « * #
+# 🌟✔ BELGESEL KÜLTÜR SANAT ✔🌟 #
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Belgesel Kültür Sanat",DMAX (360 720p)
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Belgesel Kültür Sanat",DMAX (720p)
@@ -256,7 +254,7 @@ https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 
-# * » YEREL TV « * #
+# 🌟✔ YEREL TV ✔🌟 #
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/783364fa-298e-4a56-a602-ba34f50392e6.png" group-title="Yerel",Ton TV (720p)
 http://stream.tvcdn.net/yerel/ton-tv-canakkale.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3203c05c-4224-42be-9507-f274ef26a3a3.png" group-title="Yerel",Ege Live TV (360p)
@@ -277,7 +275,7 @@ http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
 http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u
 
 
-# * » MÜZİK KEYFİ « * #
+# 🌟✔ MÜZİK KEYFİ ✔🌟 #
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",TRT Müzik (720p)
 http://stream.tvcdn.net/muzik/trt-muzik.m3u8
 #EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="Müzik",Dream Türk (720p)
