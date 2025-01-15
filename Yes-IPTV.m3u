@@ -97,7 +97,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor (360p 1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor (720p)
-http://stream.tvcdn.net/spor/a-spor.m3u8
+https://c.fulltvizle.com/aspor/index.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor (360p 1080p)
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor (720p)
@@ -205,8 +205,6 @@ http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 http://185.234.111.229:8000/play/a01l
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="Ekonomi",Ekotürk (360p 720p)
 http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4e98253f-f791-42da-8497-51e821dde886.png" group-title="Ekonomi",Finans Türk
-http://stream.tvcdn.net/ekonomi/finans-turk.m3u8
 #EXTINF:-1 tvg-id="CNBCe.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png" group-title="Ekonomi",CNBC-e (1080p)
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 
@@ -230,8 +228,6 @@ http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sdmtv.com.tr/images/sdm-tv-300x109.png" group-title="Belgesel Kültür Sanat",SDM Belgesel Keyfi (720p)
 https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AgroTV.tr" tvg-logo="http://assets.tvcdn.net/dbbbce1c-9d67-4d5a-9616-fc2458305329.png" group-title="Belgesel Kültür Sanat",Agro TV (1080p)
-http://stream.tvcdn.net/belgesel/agro-tv.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="http://assets.tvcdn.net/0ddba95e-9ad0-4d8a-9527-b562e173da80.png" group-title="Belgesel Kültür Sanat",Çiftçi TV (720p)
 http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
 #EXTINF:-1 tvg-id="TarimTV.tr" tvg-logo="http://assets.tvcdn.net/2038e897-1bbf-4744-8028-975e32561396.png" group-title="Belgesel Kültür Sanat",Tarım TV (1080p)
@@ -261,8 +257,6 @@ http://stream.tvcdn.net/yerel/ton-tv-canakkale.m3u8
 http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/fdd32b72-e1c5-4d16-8530-d6705a2d57b8.png" group-title="Yerel",FRT Fethiye (1080p)
 http://stream.tvcdn.net/yerel/frt-fethiye.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://rumelitv.com.tr/wp-content/uploads/2024/01/RumeliTV-Logo-kontr-250px.webp" group-title="Yerel",Rumeli TV (576p)
-http://stream.tvcdn.net/yerel/rumeli-tv.m3u8
 #EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-logo="http://assets.tvcdn.net/7b8dbf43-064f-4458-9c93-71089eaf493b.png" group-title="Yerel",Türk Haber (720p)
 http://stream.tvcdn.net/yerel/turk-haber.m3u8
 #EXTINF:-1 tvg-id="BRT1.cy" tvg-logo="http://assets.tvcdn.net/6fe98a89-47d1-47ff-9c9f-818a5bd5059c.png" group-title="Kıbrıs",BRT 1 (720p)
