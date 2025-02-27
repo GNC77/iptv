@@ -22,7 +22,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",ATV (360p 1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="Now TV.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV (360p 720p)
-http://31.222.206.98/8820/tracks-v1a1/mono.ts.m3u8?token=test
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="Now TV.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV (720p)
 https://x.canlitvapp.com/fox/index.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Ulusal",Beyaz TV (360p 1080p)
@@ -132,7 +132,7 @@ http://stream.tvcdn.net/spor/fit-yasa-tv.m3u8
 
 # * » BELGESEL KÜLTÜR SANAT « * #
 #EXTINF:-1 tvg-id="" tvg-logo="https://duckduckgo.com/i/5c4aa5e1.jpg" group-title="Belgesel Kültür Sanat",BOB ROSS -TCL (480p)
-https://cinedigm-bobross-lg.amagi.tv/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2a7833de-376e-4900-a8eb-523162f00502.png" group-title="Belgesel Kültür Sanat",SuperTurk Max (720p)
 http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://fashionone.tv/wp-content/uploads/2015/08/FashionOne-TV-1-e1438760106398.png" group-title="Belgesel Kültür Sanat",Fashion ONE (720p)
