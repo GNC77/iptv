@@ -86,8 +86,6 @@ https://ciner-live.ercdn.net/htspor/htspor.m3u8
 https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="Spor",FB TV (720p)
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="Spor",Tivibu Spor (720p)
-http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="Eğlence Film",TV8.5 (360p 1080p)
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:-1 tvg-id="TRTSporYıldız.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="Spor",TRT Spor Yıldız (360p 1080p)
@@ -95,16 +93,13 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV (720p 1080p)
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-id="Bein Haber.tr" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="Spor",Bein Haber (360 1080p)
-http://65.21.85.175:8000/play/a033/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6f73f66b-d2d3-451d-9f56-5d1b27172abc.png" group-title="Spor",Ziraat Türkiye Kupası TV (360p 1080p)
-http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/639df808-f325-4b05-8cdb-9ed151338087.png" group-title="Spor",Fit Yaşa TV (360p 1080p)
-http://stream.tvcdn.net/spor/fit-yasa-tv.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
+
 
 
 # * » HABER « * #
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV (360p 720p)
-http://185.234.111.229:8000/play/a00y
+http://176.65.146.123:6004/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV (720p)
 http://176.65.146.123:6004/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="Haber",Halk TV (360p 1080p)
@@ -113,22 +108,22 @@ https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",Tele 1 (360p 1080p)
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
-#EXTINF:-1 tvg-id="KRT TV.tr" tvg-logo="https://s.krttv.com.tr/assets/web/favicons/android-icon-192x192.png?v=2" group-title="Haber",KRT TV (1080p)
-http://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=v5srSbD2WBk.m3u8
+#EXTINF:-1 tvg-id="KRT TV.tr" tvg-logo="https://s.krttv.com.tr/assets/web/favicons/android-icon-192x192.png?v=2" group-title="Haber",KRT TV (360p 1080p)
+http://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=v5srSbD2WBk.m3u8
+#EXTINF:-1 tvg-id="Ekol TV.tr" tvg-logo="https://www.ekoltv.com.tr/d/assets/favicon/favicon.ico" group-title="Haber",Ekol TV (360p 1080p)
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-id="Ulusal Kanal.tr" tvg-logo="https://s.ulusal.com.tr/assets/web/images/logo.png" group-title="Haber",Ulusal Kanal (720p)
-https://canlitvulusal.xyz/live/ulusalkanal/index.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
 #EXTINF:-1 tvg-id="Flash Haber.tr" tvg-logo="https://flashhabertv.com.tr/assets/img/flashhabertv_logo169-88.png" group-title="Haber",Flash Haber (360p 1080p)
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Haber",TV 100 (360p 1080p)
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="Haber",Ülke TV (720p)
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:-1 tvg-id="Ekol TV.tr" tvg-logo="https://www.ekoltv.com.tr/d/assets/favicon/favicon.ico" group-title="Haber",Ekol TV (360p 1080p)
-https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" group-title="Haber",TRT Haber (360p 720p)
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="Haber",CNN Türk
-http://195.142.1.211:4022/udp/224.2.2.10:10001
+https://b.fulltvizle.com/cnn/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="Haber",NTV (480p)
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="Haber",Haber Global (720p)
@@ -136,13 +131,13 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="http://assets.tvcdn.net/a8fd43de-872a-4e58-9f07-ff22d21a6c24.png" group-title="Haber",Bengütürk TV (360 720p)
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="Haber",A Haber (360 720p)
-https://c.fulltvizle.com/ahaber/index.m3u8
+https://b.fulltvizle.com/ahaber/playlist.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="Haber",HaberTürk (1080p)
-http://stream.tvcdn.net/haber/haberturk.m3u8
-#EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="Haber",TVNET (720p)
-http://stream.tvcdn.net/haber/tvnet.m3u8
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="GZT.tr" tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png" group-title="Haber",GZT (1080p)
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png" group-title="Haber",TBMM TV (720p)
-http://stream.tvcdn.net/haber/tbmm-tv.m3u8
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 
 
 # * » BELGESEL KÜLTÜR SANAT « * #
@@ -161,7 +156,7 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/94505dd8-b52d-4b4d-b1e4-9fda2829ed57.png" group-title="Belgesel Kültür Sanat",Süper 7 TV Manzara
 http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png" group-title="Belgesel Kültür Sanat",TRT Türk (720p)
-http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Belgesel Kültür Sanat",DMAX (360 720p)
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Belgesel Kültür Sanat",DMAX (360p 720p)
