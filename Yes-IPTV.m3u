@@ -51,8 +51,6 @@ https://streams.uzunmuhalefet.com/stream/7ca72bbc-449a-4521-80e2-b891f1964493.m3
 # * » ÇİZGİ FİLM « * #
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çizgi Film",TRT Çocuk (360p 720p)
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png" group-title="Çizgi Film",Çizgi Film TV (360p 1080p)
-http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="Çizgi Film",TRT Diyanet Çocuk (360p 720p)
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.tmgrup.com.tr/mnka/cocuk/site/v1/i/favicon.png" group-title="Çizgi Film",Minika Çocuk (720p)
@@ -144,6 +142,8 @@ http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 
 
 # * » BELGESEL KÜLTÜR SANAT « * #
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-i.pr.trt.com.tr/trtgenc/images/brand/trt-genc-logo.svg" group-title="Belgesel Kültür Sanat",TRT Genç TV (360p 1080p)
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Somine_TV.tr" tvg-logo="https://i.ytimg.com/vi/deTxbyhPdMQ/hqdefault.jpg" group-title="Belgesel Kültür Sanat",Şömine TV (360 1080p)
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Somine_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://fashionone.tv/wp-content/uploads/2015/08/FashionOne-TV-1-e1438760106398.png" group-title="Belgesel Kültür Sanat",Fashion ONE (720p)
