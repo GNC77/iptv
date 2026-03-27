@@ -8,7 +8,7 @@ http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV (360p 720p)
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV (360p 1080p)
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="Ulusal",ATV (360p 1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="ATV Avrupa.tr" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" group-title="Ulusal",ATV Avrupa (360p 1080p)
@@ -44,8 +44,8 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="Eğlence Film",TRT 2 (720p)
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://tytturk.com/upload/tyt-logo.png" group-title="Eğlence Film",TYT Türk TV (1080p)
-https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tytturk.com/upload/tyt-logo.png" group-title="Eğlence Film",TYT Türk TV (360p 1080p)
+https://streams.uzunmuhalefet.com/stream/7ca72bbc-449a-4521-80e2-b891f1964493.m3u8
 
 
 # * » ÇİZGİ FİLM « * #
@@ -80,8 +80,6 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Now_Spor.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv3Jx9rv/sifir.png" group-title="Spor",SIFIR TV (1080p)
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="MAÇKOLİK TV" tvg-logo="https://i.ibb.co/HLw2sW7P/mackolik.png" group-title="Spor",MAÇKOLİK TV (720p)
-https://mackolik-live.ercdn.net/mackolik/mackolik_720p.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="Spor",FB TV (720p)
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="Eğlence Film",TV8.5 (360p 1080p)
@@ -98,7 +96,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/sp
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV (360p 720p)
 https://www.youtube.com/watch?v=ztmY_cCtUl0&pp
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV (720p)
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
+https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="Haber",Halk TV (360p 1080p)
 https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="Haber",Halk TV (1080p)
@@ -131,6 +129,8 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="Haber",A Haber (360 720p)
 https://www.youtube.com/watch?v=nmY9i63t6qo&pp
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="Haber",A Haber (360 720p)
+https://streams.uzunmuhalefet.com/stream/b4f7a5e9-fcae-4258-83eb-cc37b6a68696.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="Haber",HaberTürk (1080p)
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-id="GZT.tr" tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png" group-title="Haber",GZT (1080p)
@@ -150,58 +150,38 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Somine_TV.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://euromediacenter.com/tr/wp-content/uploads/2021/11/43-FASHION-TV-LOGO.png" group-title="Belgesel Kültür Sanat",Fashion World (720p)
 https://live.euromediacenter.com/fashionworld/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FTV MIDNITE SECRETS.tr" tvg-logo="https://files.fashiontv.com/wp-content/uploads/2015/07/fashiontvplus-logo.png" group-title="Belgesel Kültür Sanat",FTV MIDNITE SECRETS (1080)
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png" group-title="Belgesel Kültür Sanat",TRT Türk (720p)
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Belgesel Kültür Sanat",DMAX (360 720p)
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
-#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Belgesel Kültür Sanat",DMAX (360p 720p)
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" group-title="Belgesel Kültür Sanat",TLC (360 720p)
 http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 #EXTINF:-1 tvg-id="CGTN Belgesel.tr" tvg-logo="https://external-content.duckduckgo.com/ip3/www.cgtn.com.ico" group-title="Belgesel Kültür Sanat",CGTN Belgesel (720P)
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="Belgesel Kültür Sanat",Tarih TV (360p 1080p)
-http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel Kültür Sanat",TRT Belgesel (720p)
-http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
-#EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel Kültür Sanat",TGRT Belgesel (576p)
-http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
-#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="http://assets.tvcdn.net/0ddba95e-9ad0-4d8a-9527-b562e173da80.png" group-title="Belgesel Kültür Sanat",Çiftçi TV (720p)
-http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
-#EXTINF:-1 tvg-id="TarimTV.tr" tvg-logo="http://assets.tvcdn.net/2038e897-1bbf-4744-8028-975e32561396.png" group-title="Belgesel Kültür Sanat",Tarım TV (1080p)
-http://stream.tvcdn.net/belgesel/tarim-tv.m3u8
-#EXTINF:-1 tvg-id="KöyTV.tr" tvg-logo="https://i.imgur.com/RcjEHAG.png" group-title="Belgesel Kültür Sanat",Köy TV (720p)
-http://185.234.111.229:8000/play/a05v
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png" group-title="Belgesel Kültür Sanat",Toprak TV (720p)
-http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://euromediacenter.com/tr/wp-content/uploads/2021/12/12-BALKAN-TURK.png" group-title="Belgesel Kültür Sanat",Balkan Türk (360p)
-http://stream.tvcdn.net/yerel/balkan-turk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ce391a09-3e27-4782-a2d3-1fa7fed0974e.png" group-title="Belgesel Kültür Sanat",TV Mor (720p)
-http://stream.tvcdn.net/diger/tv-mor.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/44e5aee167dc4b57d7c8a83b97c240a4b46ef1358781e42508f366f6aa122689.png" group-title="Belgesel Kültür Sanat",Choppertown (360p 720p)
-https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+https://streams.uzunmuhalefet.com/stream/d2c6d071-d252-4b73-9607-df0084017f2e.m3u8
+#EXTINF:-1 tvg-id="YabanTV.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/4d5dbf1a-4524-4d11-8904-0c5c9fc4b7aa.png" group-title="Belgesel Kültür Sanat",Yaban TV (360p 1080p)
+https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
 
 
 # * » EKONOMİ « * #
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Ekonomi",Bloomberg HT (360p 720p)
-http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
+https://streams.uzunmuhalefet.com/stream/36931c3c-b36b-45eb-89c8-ffdcea8a9329.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4e98253f-f791-42da-8497-51e821dde886.png" group-title="Ekonomi",FinansTürk (720p)
-https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+https://streams.uzunmuhalefet.com/stream/93841168-9d59-43d0-9246-e04b64558b05.m3u8
 #EXTINF:-1 tvg-id="CNBCe.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png" group-title="Ekonomi",CNBC-e (360p 1080p)
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
+https://streams.uzunmuhalefet.com/stream/41cde2c5-8f3c-405f-b5a2-fd6242d1d0a4.m3u8
 
 
 # * » YEREL TV « * #
 #EXTINF:-1 tvg-id="Ton TV" tvg-logo="http://assets.tvcdn.net/783364fa-298e-4a56-a602-ba34f50392e6.png" group-title="Yerel",Ton TV (720p)
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3203c05c-4224-42be-9507-f274ef26a3a3.png" group-title="Yerel",Ege Live TV (360p)
-http://stream.tvcdn.net/yerel/ege-live-tv.m3u8
+https://streams.uzunmuhalefet.com/stream/016a8c68-5bd7-4c6a-8d0c-98f695bd8b57.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/fdd32b72-e1c5-4d16-8530-d6705a2d57b8.png" group-title="Yerel",FRT Fethiye (1080p)
 https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
-#EXTINF:-1 tvg-id="RumeliTV.tr" tvg-logo="https://i.imgur.com/xpRPX3a.png" group-title="Yerel",Rumeli TV
-http://185.234.111.229:8000/play/a023
+#EXTINF:-1 tvg-id="Kıbrıs.tr" tvg-logo="https://assets.uzunmuhalefet.com/logos/b541d9f3-8991-46cc-a96e-1e8c99dd6f8e.png" group-title="Yerel",BRT 1
+https://streams.uzunmuhalefet.com/stream/87fee393-281a-499c-97c3-18ff5c7b2289.m3u8
 
 
 # * » MÜZİK KEYFİ « * #
@@ -220,11 +200,11 @@ http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 tvg-id="Number1TV.tr" tvg-logo="http://assets.tvcdn.net/c46cb81f-8075-442a-be24-d77a05f57921.png" group-title="Müzik",Number One TV (720p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Number1Turk.tr" tvg-logo="http://assets.tvcdn.net/8fdc5969-a87a-4067-a74a-65d88c131166.png" group-title="Müzik",Number One Türk (720p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="Müzik",NUMBER ONE TÜRK DAMAR
+https://streams.uzunmuhalefet.com/stream/1eb6107d-6e37-479a-a81d-7999287bc876.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="Müzik",Number One Türk Damar
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 #EXTINF:-1 tvg-id="TMB.tr" tvg-logo="http://assets.tvcdn.net/bff30a45-6e50-456c-af0e-62c62191c837.png" group-title="Müzik",TMB (1080p)
-http://stream.tvcdn.net/muzik/tmb.m3u8
+https://streams.uzunmuhalefet.com/stream/56ac94c5-5fba-4265-9170-1fbb136551f8.m3u8
 #EXTINF:-1 tvg-id="PowerDance.tr" tvg-logo="http://assets.tvcdn.net/aca9e643-a4b0-4f01-abd5-66a5a2fc1042.png" group-title="Müzik",Power Dance (1080p)
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerLove.tr" tvg-logo="http://assets.tvcdn.net/f755a1c1-097f-4692-a7a8-c804da8d1ed5.png" group-title="Müzik",Power Love (1080p)
@@ -235,20 +215,12 @@ http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="http://assets.tvcdn.net/ebb82c5c-86ac-4dc5-ba78-b26e536cebf7.png" group-title="Müzik",Powertürk Taptaze (1080p)
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Number1Ask.tr" tvg-logo="http://assets.tvcdn.net/a93b01d9-2c8f-4406-b5f9-abdf2f600e79.png" group-title="Müzik",Number 1 Aşk (720p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.defjam.com/files/2020/07/defjam-logo-white-900x967.png" group-title="Müzik",Def Jam (720p)
-https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bluestn.com/wp-content/uploads/2019/06/btnLogo-2.png" group-title="Müzik",Blues TV (480p)
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/HveBeE85LxBv1jNCxvGk8hO4DpkMv81Utz-0zXccERCijVpsVYtzo5JdZjWWJ0pzEsiwmcTq=s160-c-k-c0x00ffffff-no-rj" group-title="Müzik",Vevo Hip-Hop et RnB (480p)
 https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://muzzik.co.uk/images/muzzik-logo.png" group-title="Müzik",MUZZIK VISION (576)
-http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.catcast.tv/uploads/17082022/logos/42148-62fcb44fb5ce1.jpg" group-title="Müzik",MUSIC TV (432p)
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://muzzik.co.uk/images/muzzik-logo.png" group-title="Müzik",FLASHBACK (576)
-http://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dancetv.net/images/dhd-logo.png" group-title="Müzik",DEEPHOUSE DISTRICT (1080p)
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dancetv.net/images/tw-logo.png" group-title="Müzik",Techno Warehouse (1080p)
